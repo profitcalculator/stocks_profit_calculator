@@ -26,6 +26,8 @@ Requirements
 Sample output
 -------------
 
+TICKER   PRICE         # stocks             Profit on 1000 USD    52_Week_high   Company
+
 QS       ( 57.46 )        17                   1280    (132.73)    Quantumscape Corp
 
 BLDP     ( 23.60 )        42                   1273    (53.9)    Ballard Power Systems Inc
