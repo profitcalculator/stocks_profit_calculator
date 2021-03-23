@@ -1,0 +1,170 @@
+AAPL,0,122.54,145.09,Apple Inc
+ABNB,0,187.14,219.94,Airbnb Inc
+ADBE,0,460.2,536.88,Adobe Inc
+ADI,0,150.49,164.4,Analog Devices Inc
+ADXS,0,0.81,1.57,Advaxis Inc
+AIKI,0,1.29,2.71021,Aikido Pharma Inc
+AMAT,0,116.38,124.5,Applied Materials Inc
+AMC,0,10.66,20.36,AMC Entertainment Holdings Inc
+AMD,0,78.38,99.23,Advanced Micro Devices Inc
+AMZN,0,3137.5,3552.25,Amazon.com Inc
+APPZ,0,0.0005,0.0018,Monster Arts Inc
+AVGO,0,464.06,495.14,Broadcom Inc
+BABA,0,237.67,319.32,Alibaba Group Holding Ltd
+BE,0,26.58,44.95,Bloom Energy Corp
+BIDU,0,261.55,354.82,Baidu Inc
+BIGC,0,55.77,162.5,Bigcommerce Holdings, Inc.
+BILI,0,105.99,157.66,Bilibili Inc
+BLDP,0,23.6,53.9,Ballard Power Systems Inc
+BLSP,0,0.0043,0.085,Blue Sphere Corp
+BP,0,24.06,3.76544,BP PLC
+CHWY,0,84.69,120,Chewy Inc
+CLNY,0,6.23,7.0027,Colony Capital Inc
+CLVT,0,24.83,33.55,CLARIVATE PLC
+COP,0,51.71,61.14,ConocoPhillips
+COST,0,340.34,388.07,Costco Wholesale Corp
+CPE,0,33.16,42.31,Callon Petroleum Co
+CRM,0,215,284.5,Salesforce.Com Inc
+CRNC,0,99.8,139,Cerence Inc
+CRUS,0,77.25,103.25,Cirrus Logic Inc
+CRWD,0,190.6,251.28,CrowdStrike Holdings Inc
+CVX,0,101.97,112.7,Chevron Corp
+DAL,0,45.64,52.28,Delta Air Lines Inc
+DASH,0,131.76,256.09,DoorDash Inc
+DDOG,0,85.17,119.433,Datadog Inc
+DOCU,0,207.96,290.23,DocuSign Inc
+DVN,0,21.74,25.92851,Devon Energy Corp
+EB,0,22.31,26.515,Eventbrite Inc
+EBON,0,8.84,14.95,Ebang International Holdings Inc
+ENPH,0,155.97,229.04,Enphase Energy Inc
+ESTC,0,115.42,176.49,Elastic NV
+ETSY,0,219.67,251.86,ETSY Inc
+EXPR,0,4.16,13.97,Express Inc
+EXRG,0,0.0013,0.0019,Ecologix Resource Group Inc
+FB,0,290.63,304.67,Facebook Inc
+FCEL,0,13.94,29.4396,Fuelcell Energy Inc
+FIVN,0,166.98,201.75,Five9 Inc
+FMC,0,108.02,123.66,FMC Corp
+FROG,0,50.53,95.2,Jfrog Ltd
+FSLY,0,70.78,136.5,Fastly Inc
+FUBO,0,30.09,62.29,Fubotv Inc
+FUTU,0,115.26,204.25,Futu Holdings Ltd
+FVRR,0,220.78,336,Fiverr International Ltd
+FWDG,0,0.0006,0.0034,FutureWorld Corp
+GOOG,0,2052.96,2145.14,Alphabet Inc
+GPRO,0,12.41,13.68,GoPro Inc
+HMNY,0,0.0036,0.013,Helios and Matheson Analytics Inc
+HUBS,0,457.85,547.47,HubSpot Inc
+IPHI,0,161.63,182.22,Inphi Corp
+IPNFF,0,0.3424,0.435,ImagineAR Inc
+IRNC,0,0.0005,0.0039,Ironclad Encryption Corp
+ISRG,0,710.82,826.81,Intuitive Surgical Inc
+JD,0,83.51,422.8,JD.Com Inc
+JMIA,0,38.67,69.89,Jumia Technologies AG
+JWN,0,36.94,46.45,Nordstrom Inc
+KGKG,0,0.0388,0.0565,Kona Gold Beverage Inc
+LAZR,0,28.33,47.8,Luminar Technologies Inc
+LI,0,26.37,47.7,Li Auto Inc.
+LIN,0,267.88,274.575,Linde PLC
+LMND,0,95.88,188.3,Lemonade Inc
+LRCX,0,544.41,603.5996,Lam Research Corp
+LSPD,0,64,104.98,Lightspeed POS Inc
+LUV,0,57.62,62.7561,Southwest Airlines Co
+LVS,0,59.35,66.765,Las Vegas Sands Corp
+LYFT,0,61.56,68.28,Lyft Inc
+M,0,16.09,22.3,Macy's Inc
+MELI,0,1446.65,2020,Mercadolibre Inc
+MPC,0,52.44,59.93,Marathon Petroleum Corp
+MRNA,0,136.52,189.26,Moderna Inc
+MRVL,0,46.15,55.7,Marvell Technology Group Ltd
+MSFT,0,237.58,246.13,Microsoft Corp
+MTCH,0,145.89,174.68,Match Group Inc
+MU,0,85.4,95.75,Micron Technology Inc
+NEE,0,74.02,87.69,Nextera Energy Inc
+NEOM,0,0.0017,0.0129,NeoMedia Technologies Inc
+NEOS,0,1.15,1.68,Neos Therapeutics Inc
+NET,0,72.37,95.77,Cloudflare Inc
+NFLX,0,535.09,593.2877,Netflix Inc
+NIO,0,41.18,66.99,NIO Inc
+NIU,0,38.74,53.38,NIU Technologies
+NKLA,0,15,93.99,Nikola Corporation
+NNDM,0,9.12,17.89,Nano Dimension Ltd
+NVDA,0,522.83,614.9,NVIDIA Corp
+NVTA,0,40.91,61.59,Invitae Corp
+NXPI,0,191.62,209.59,NXP Semiconductors NV
+OKTA,0,225.62,294,Okta Inc
+ON,0,38.58,42.38,ON Semiconductor Corp
+OPEN,0,25.62,39.24,Opendoor Technologies Inc
+OPK,0,4.65,6.47,OPKO Health Inc
+PANW,0,323.6,403,Palo Alto Networks Inc
+PD,0,41.65,58.36,PagerDuty Inc
+PDD,0,136.06,212.5965,Pinduoduo Inc
+PEP,0,139.46,148.77,PepsiCo Inc
+PFNO,0,0.0019,0.0075,ParaFin Corp
+PII,0,129.48,140.93,Polaris Inc
+PINS,0,71.24,89.9,Pinterest Inc
+PLTR,0,23.26,45,Palantir Technologies Inc
+PLUG,0,36.79,75.49,Plug Power Inc
+PRPM,0,0.0018,0.008,ProTek Capital Inc
+PSTG,0,22.01,29.53,Pure Storage Inc
+PTEN,0,7.02,9.74,Patterson-UTI Energy Inc
+PTON,0,113.35,171.09,Peloton Interactive Inc
+PVH,0,94.94,110.89,PVH Corp
+PVSP,0,0.0059,0.0307,Pervasip Corp
+PYPL,0,243.77,309.14,PayPal Holdings Inc
+QCOM,0,132.52,167.94,Qualcomm Inc
+QRVO,0,176.37,191.825,Qorvo Inc
+QS,0,57.46,132.73,Quantumscape Corp
+RBNW,0,0.002,0.0049,Renewable Energy and Power Inc
+RCHA,0,0.00175,0.0045,Rich Pharmaceuticals Inc
+RDFN,0,66.28,98.445,Redfin Corp
+RIDE,0,12.59,31.8,Lordstown Motors Corp
+RIG,0,3.28,4.81,Transocean Ltd
+ROKU,0,342.24,486.72,Roku Inc
+RXT,0,22.68,25.76,Rackspace Technology Inc
+SAML,0,0.001,0.00575,Samsara Luggage Inc
+SANP,0,0.0067,0.0348,Santo Mining Corp
+SE,0,216.64,285,Sea Ltd
+SEDG,0,278.37,377,Solaredge Technologies Inc
+SFIX,0,50.54,113.7594,Stitch Fix Inc
+SHIP,0,1.11,7.04,Seanergy Maritime Holdings Corp
+SHOP,0,1162,1499.75,Shopify Inc
+SLB,0,26.67,30.41,Schlumberger NV
+SNAP,0,55.26,73.59,Snap Inc
+SNDL,0,1.21,3.96,Sundial Growers Inc
+SNOW,0,220,429,Snowflake Inc.
+SPCE,0,30.93,62.8,Virgin Galactic Holdings Inc
+SPLK,0,138.22,225.8944,Splunk Inc
+SPONF,0,0.0355,0.135,SponsorsOne Inc
+SPOT,0,267.3,387.44,Spotify Technology SA
+SQ,0,223.2,283.1898,Square Inc
+SRMX,0,0.0053,0.0199,Saddle Ranch Media Inc
+T,0,30,33.24,AT&T Inc
+TCEHY,0,80.93,775.5,Tencent Holdings Ltd
+TDOC,0,193.74,308,Teladoc Health Inc
+TENB,0,38.79,58.4499,Tenable Holdings Inc
+TIGR,0,17.8,38.5,UP Fintech Holding Ltd
+TRVG,0,4.35,5.88,Trivago NV
+TSLA,0,662.16,900.4,Tesla Inc
+TSM,0,114.89,679,Taiwan Semiconductor Manufacturing Co Ltd
+TWLO,0,354.42,457.3,Twilio Inc
+TWTR,0,64.27,80.75,Twitter Inc
+U,0,97.19,174.94,Unity Software Inc
+UAL,0,54.36,63.6999,United Airlines Holdings Inc
+UBER,0,53.49,64.05,Uber Technologies Inc
+UEC,0,2.62,3.67,Uranium Energy Corp
+UWMC,0,8.44,14.38,UWM Holdings Corp
+VBHI,0,0.028,0.1155,Verde Bio Holdings Inc
+VEEV,0,264.94,325.54,Veeva Systems Inc
+WDAY,0,257.39,282.77,Workday Inc
+WDLF,0,0.0198,0.044,Social Life Network Inc
+WISH,0,16.56,32.8499,ContextLogic Inc
+WMT,0,133.94,153.6597,Walmart Inc
+WORK,0,40.97,44.57,Slack Technologies Inc
+WSGF,0,0.0324,0.093,World Series of Golf Inc
+XM,0,34.71,57.2779,Qualtrics International Inc
+XOM,0,55.22,62.55,Exxon Mobil Corp
+XPEV,0,36.33,74.49,Xpeng Inc
+ZI,0,56.33,64.4,ZoomInfo Technologies Inc
+ZM,0,339.76,588.84,Zoom Video Communications Inc
+ZS,0,183,230.8808,Zscaler Inc
